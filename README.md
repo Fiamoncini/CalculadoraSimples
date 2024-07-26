@@ -62,5 +62,3 @@ O usuário deve escolher uma das opções digitando o número correspondente (1,
 - Saída: `Resultado: 15.0`
 
 ---
-
-Este programa é uma excelente ferramenta para aprender conceitos básicos de controle de fluxo, entrada de dados do usuário e operações aritméticas em Java.
